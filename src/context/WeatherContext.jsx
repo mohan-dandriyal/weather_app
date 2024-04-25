@@ -16,6 +16,7 @@ export const WeatherProvider = (props) => {
     const featchData = async () => {
         const respons = await getWeatherdatForcity(searhcCity)
         setData(respons)
+        setSearhcCity("")
     }
 
     const featchCurentLocetion = () => {
