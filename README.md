@@ -1,6 +1,6 @@
 
-# Use This Project in The rest weather API
-# featch the api weather.js
+# Using the rest weather API
+# featch the api  weather.js and get the data
 # create the context and pass the city name as arguments
 # create a search box and buttn
 # create the weather details card and show the details weather image, Tempracher, Humidity, Wind_kph and Wind_dir
